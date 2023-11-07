@@ -2,8 +2,9 @@ from llama_index import GPTVectorStoreIndex, SimpleDirectoryReader, LLMPredictor
 from langchain.chat_models import ChatOpenAI
 import gradio
 import os
+from credentials import API_KEY
 
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = API_KEY
 
 def construct_index(directory_path):
 
