@@ -6,7 +6,9 @@ This project is designed to provide a simple and interactive way to learn about 
 ## Overview
 The Libre AI Chatbot is a wrapper around OpenAI's ChatGPT that provides users with the ability to inquire about the Libre cryptocurrency. It utilizes an indexing and retrieval system to fetch information from Libre's official documentation, which was systematically collected via a scraping script. The chatbot serves as a bridge between users and complex technical data, offering a conversational interface that simplifies the process of understanding Libre's underlying principles, technology, and functionalities. It's important to note that this system is not an open-source language model itself but leverages OpenAI's pre-trained models to interpret and respond to user queries about Libre.
 
-![Libre Chatbot Example](/Users/argishtiovsepyan/Desktop/WORK/libre-chat/images "Libre AI Chatbot")
+<p align="center">
+<img src= "images/example.jpg">
+</p>
 
 ## Features
 - Scraping of Libre's documentation to gather detailed and up-to-date information.
